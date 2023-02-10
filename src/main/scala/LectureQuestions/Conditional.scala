@@ -1,0 +1,5 @@
+package LectureQuestions
+
+object Conditional {
+
+}
